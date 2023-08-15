@@ -1,0 +1,23 @@
+{
+  "name": "projeto-poo-softex",
+  "version": "1.0.0",
+  "description": "**Definição do Projeto**: Desenvolver um sistema de gerenciamento de biblioteca que permita aos usuários (alunos e professores) realizar operações de empréstimo, devolução, e busca de livros. O sistema será orientado a objetos, seguindo os princípios da programação orientada a objetos (POO).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev --respawn --transpile-only src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eltonz35/projeto-poo-softex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eltonz35/projeto-poo-softex/issues"
+  },
+  "homepage": "https://github.com/eltonz35/projeto-poo-softex#readme",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
+}
